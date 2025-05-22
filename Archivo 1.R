@@ -8,6 +8,7 @@ summary(datos)
 
 # Mostrar dimensiones del dataset
 dim(datos)
+#hola :D
 
 # Extraer solo columnas numéricas
 datos_numericos <- datos[sapply(datos, is.numeric)]
