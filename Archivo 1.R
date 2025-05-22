@@ -91,7 +91,7 @@ print(resultados)
 
 
 
-write.csv(resultados, file = "resultados/columnas_mayores_que_media.csv", row.names = FALSE)
+write.csv(resultados, file = "resultados.csv", row.names = FALSE)
 
 
 
